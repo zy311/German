@@ -1,1 +1,1 @@
-# German
+# Invariants for German protocol
